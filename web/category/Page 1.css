@@ -1,0 +1,379 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 8.495026%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: static;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+ margin-right: 0%;
+}
+
+#box1 {
+    float: left;
+    height: 2242px;
+    clear: both;
+    width: 78.297608%;
+    border: 2px solid rgb(199, 206, 254);
+    position: absolute;
+    top: 558px;
+    left: 8.720426%;
+    z-index: 0;
+    background-color: rgb(255, 234, 246);
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: both;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 365px;
+    left: 11.506309%;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 365px;
+    left: 42.665039%;
+}
+
+#image5 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 365px;
+    left: 74.25%;
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 365px;
+    left: 27.570313%;
+}
+
+#image4 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 365px;
+    left: 58.890625%;
+}
+#image_search {
+    float: left;
+   
+    width: 50px;
+    max-width: 100%;
+    height: 40px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 510px;
+    left: 450px;
+}
+#search {
+    float: left;
+    width: 300px;
+    max-width: 100%;
+    height: 40px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 510px;
+    left: 200px;
+}
+
+#search_ {
+    float: none;
+    height: 40px;
+    
+    font-size: 1em;
+    display: block;
+    width: 30%;
+    margin-top: 4px;
+    margin-left: 0%;
+    clear: none;
+}
+#text {
+ 
+    float: left;
+    font-size: 60px;
+    width: 7.806673%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 46px;
+    clear: none;
+    min-height: 124px;
+    position: fixed;
+    top: 33px;
+    left: 0.68675966%;
+    z-index: 5;
+    display: block;
+    font-family: 'ms serif';
+    color: rgb(199, 206, 254);
+
+}
+
+#text1 {
+    float: left;
+    font-size: 24px;
+    width: 11.185373%;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 10.771885%;
+    margin-top: 84px;
+    clear: both;
+    min-height: 82px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    font-family: podkova;
+    color: rgb(244, 166, 166);
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    font-family: voces;
+ color: rgb(244, 166, 166);
+}
+
+#text3 {
+    float: left;
+    font-size: 24px;
+    width: 11.360991%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.327681%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 82px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    font-family: podkova;
+    color: rgb(244, 166, 166);
+}
+
+#text5 {
+    float: left;
+    font-size: 24px;
+    width: 11.848707%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.066443%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 82px;
+    font-family: podkova;
+    color: rgb(244, 166, 166);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#text2 {
+    float: left;
+    font-size: 24px;
+    width: 11.248595%;
+    height: auto;
+    text-align: left;
+    font-weight: 300;
+    line-height: 1em;
+    margin-left: 4.518927%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 82px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    font-family: podkova;
+    color: rgb(139, 154, 253);
+}
+
+#textspan1 {
+    float: none;
+    font-size: 26px;
+    line-height: 1em;
+}
+
+#text4 {
+    float: left;
+    font-size: 24px;
+    width: 11.059931%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.352326%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 82px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    font-family: podkova;
+    color: rgb(109, 127, 249);
+}
+
+#textspan2 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(139, 154, 253);
+}
+
+#box2 {
+    float: left;
+    height: 1158px;
+    clear: none;
+    width: 10.752454%;
+    position: fixed;
+    top: -35px;
+    left: 89.244577%;
+    border: 1px solid rgb(172, 183, 251);
+    background-color: rgb(209, 196, 255);
+}
+
+#box {
+    float: left;
+    height: 189px;
+    clear: none;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.592157);
+    border: 1px solid rgba(255, 255, 255, 0);
+    z-index: 1;
+}#image6 {
+    float: left;
+    width: auto;
+    max-width: 4.025071%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 327.5px;
+    left: 87.392071%;
+    z-index: 1;
+}
+
+#image7 {
+    float: left;
+    width: auto;
+    max-width: 4.052369%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 21px;
+    left: 67.896665%;
+    z-index: 2;
+    border: 5px solid rgb(141, 141, 141);
+    box-shadow: rgb(104, 104, 104) 0px 0px 0px 0px;
+}
+
+#box3 {
+    float: left;
+    height: 65px;
+    clear: both;
+    width: 41.698488%;
+    position: fixed;
+    top: 21px;
+    left: 26.543017%;
+    z-index: 2;
+    border: 5px solid rgb(141, 141, 141);
+    background-color: rgba(246, 244, 244, 0.34902);
+    box-shadow: rgb(71, 71, 71) 0px 0px 0px 0px inset;
+}
+
+
+#image9 {
+    float: left;
+    width: auto;
+    max-width: 4.035809%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 157px;
+    left: 46.648028%;
+    z-index: 2;5%;
+    z-index: 2;
+ }
+
+#image8 {
+    float: left;
+    width: auto;
+    max-width: 4.035809%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 157px;
+    left: 46.648028%;
+    z-index: 2;5%;
+    z-index: 2;
+ }
+#image10 {
+    float: left;
+    width: auto;
+    max-width: 4.025071%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    top: 327.5px;
+    left: 87.392071%;
+    z-index: 1;
+}

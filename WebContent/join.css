@@ -1,0 +1,206 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(255, 203, 203);
+}
+
+#text1 {
+    float: left;
+    font-size: 30px;
+    width: 8.532252%;
+    height: auto;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin-left: 21.076288%;
+    margin-top: 61.375px;
+    clear: both;
+    min-height: 37px;
+    font-family: 'courier new';
+    text-transform: none;
+    font-style: normal;
+}
+
+#text3 {
+    float: left;
+    font-size: 30px;
+    width: 15.623482%;
+    height: auto;
+    text-align: right;
+    font-weight: 700;
+    line-height: 1em;
+    margin-left: 12.150753%;
+    margin-top: 63px;
+    clear: both;
+    min-height: 33px;
+    font-family: 'courier new';
+}
+
+#text {
+    float: left;
+    font-size: 40px;
+    width: 43.866922%;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: 1.198069%;
+    margin-top: 74px;
+    clear: none;
+    min-height: 42px;
+    color: rgb(233, 195, 243);
+    background-color: rgb(103, 102, 102);
+}
+
+#input {
+    float: left;
+    height: 39px;
+    font-size: 1em;
+    margin-left: 38.965318%;
+    margin-top: 37.625px;
+    clear: both;
+    width: 18.367347%;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+    position: absolute;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 15.426081%;
+    margin-top: 50px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 2.260994%;
+    margin-top: 50px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#formgroup {
+    float: left;
+    height: 64.375px;
+    display: block;
+    text-align: left;
+    margin-left: 2.124332%;
+    margin-top: 34px;
+    clear: none;
+    width: 34.693878%;
+}
+
+#JOIN_id {
+    float: none;
+    height: 42px;
+    padding: 0px;
+    font-size: 1em;
+    display: block;
+    width: 98.384979%;
+}
+
+#text2 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding: 0.2em 0em;
+    display: block;
+}
+
+#formgroup1 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 3.957119%;
+    margin-top: 50.625px;
+    clear: none;
+    width: 34.695396%;
+}
+
+#JOIN_pw {
+    float: none;
+    height: 37.625px;
+    padding: 0px;
+    font-size: 1em;
+    display: block;
+    width: 500px;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#phone {
+    float: none;
+    height: 37.625px;
+    padding: 0px;
+    font-size: 1em;
+    display: block;
+    width: 500px;
+    top:500px;
+    margin-left: 0%;
+ 
+    clear: none;
+}
+
+#email {
+    
+    height: 37.625px;
+    padding: 0px;
+    font-size: 1em;
+    display: block;
+    width: 500px;
+    top: 500px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#text4 {
+    float: none;
+    font-size: 1em;
+    width: 98.38505%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding: 0.2em 0em;
+    display: block;
+    margin-top: -14.625px;
+    margin-left: 0%;
+    clear: none;
+    min-height: 0px;
+}
+
